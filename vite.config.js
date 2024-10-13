@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/ChairosCreations/',
   build: {
     outDir: 'dist',
     rollupOptions:{
